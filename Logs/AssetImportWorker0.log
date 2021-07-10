@@ -139,3 +139,4 @@ Received Import Request.
   path: Assets/Scripts/ShootingProjectiles/Projectile.cs
   artifactKey: Guid(7bd8ed0746ef8324aa9b33326bd46bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/ShootingProjectiles/Projectile.cs using Guid(7bd8ed0746ef8324aa9b33326bd46bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbbe86553d3c6793ec11503121cc8d6') in 0.674588 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
