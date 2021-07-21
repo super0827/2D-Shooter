@@ -46,6 +46,7 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 84c7537114d1a294185c029cec7fa934, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.4433962, g: 0.33107024, b: 0.12758097, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -100,6 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   teamId: 3
   damageAmount: 10
+  hitEffect: {fileID: 0}
   destroyAfterDamage: 1
   dealDamageOnTriggerEnter: 1
   dealDamageOnTriggerStay: 1
@@ -137,10 +139,10 @@ MonoBehaviour:
   maximumHealth: 3
   currentHealth: 3
   invincibilityTime: 0.01
+  isAlwaysInvincible: 0
   useLives: 0
   currentLives: 3
   maximumLives: 5
-  isInvincible: 0
   deathEffect: {fileID: 0}
   hitEffect: {fileID: 0}
 --- !u!50 &-893941593513588248

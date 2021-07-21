@@ -45,14 +45,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 4641165794769155162, guid: 5089b9cd653abda4ba6013a20e42c774, type: 3}
   projectileHolder: {fileID: 0}
-  animator: {fileID: 0}
   isPlayerControlled: 0
   fireRate: 3
-  projectileDamage: 1
-  teamID: 1
-  projectileSpeed: 5
   projectileSpread: 1
-  playerInput: {fileID: 0}
+  fireEffect: {fileID: 0}
 --- !u!1 &8282131552441171991
 GameObject:
   m_ObjectHideFlags: 0
@@ -102,6 +98,7 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -174,6 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
+  scoreValue: 5
   followTarget: {fileID: 0}
   followRange: 30
   guns:
@@ -199,10 +197,10 @@ MonoBehaviour:
   maximumHealth: 2
   currentHealth: 2
   invincibilityTime: 0
+  isAlwaysInvincible: 0
   useLives: 0
   currentLives: 3
   maximumLives: 5
-  isInvincible: 0
   deathEffect: {fileID: 2452382815751308013, guid: 990f3751046a4d840806774f23579fe2, type: 3}
   hitEffect: {fileID: 6229913163069739088, guid: d6029318d740811488fd5dd38a7e1ce1, type: 3}
 --- !u!50 &4327850106528714602
@@ -305,11 +303,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 4641165794769155162, guid: 5089b9cd653abda4ba6013a20e42c774, type: 3}
   projectileHolder: {fileID: 0}
-  animator: {fileID: 0}
   isPlayerControlled: 0
   fireRate: 3
-  projectileDamage: 1
-  teamID: 1
-  projectileSpeed: 5
   projectileSpread: 1
-  playerInput: {fileID: 0}
+  fireEffect: {fileID: 0}
