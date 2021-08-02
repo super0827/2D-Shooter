@@ -3676,3 +3676,4 @@ Received Import Request.
   path: Assets/_Scenes/MainMenu.unity
   artifactKey: Guid(826a664e2395f834db933e421cd06640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/_Scenes/MainMenu.unity using Guid(826a664e2395f834db933e421cd06640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '853e3068945584ddf2c9ec14e761a1ef') in 0.010404 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
