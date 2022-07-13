@@ -20,6 +20,10 @@ This is my Space wars Project.
 <h3>Game Screenshots</h3>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/81550376/178738412-5a87e89f-e175-4c27-9d58-f4f46c835aa3.png" alt="Screenshot 3"/>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/81550376/178738314-d1fe2515-5510-4c6c-ac22-4117e94c2c71.png" alt="Screenshot 1"/>
 </p>
 
@@ -27,9 +31,7 @@ This is my Space wars Project.
   <img src="https://user-images.githubusercontent.com/81550376/178738363-839cb588-4a1e-4475-926c-d4af00febf51.png" alt="Screenshot 2"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81550376/178738412-5a87e89f-e175-4c27-9d58-f4f46c835aa3.png" alt="Screenshot 3"/>
-</p>
+
 
 
 
