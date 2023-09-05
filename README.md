@@ -1,6 +1,6 @@
 This is my Space wars Project.
 
-----------------Assignment Modification-----------------
+----------------Features-----------------
 <ul>
   <li>Modified Main menu and done some UI changes</li>
   <li>New Mouse Cursor</li>
